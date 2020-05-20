@@ -9,4 +9,4 @@ def func_recurs(b, n, my_list=[]):
 # a = int(input("Введите число: "))
 spisok = []
 func_recurs(2, 2, spisok)
-print((spisok))
+print(spisok)
